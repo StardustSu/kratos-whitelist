@@ -1,5 +1,7 @@
 FROM node:slim
 
+EXPOSE 3000
+
 WORKDIR /app
 
 COPY . .

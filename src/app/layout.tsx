@@ -14,8 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-    title: "AI - Добавить сервер",
-    description: "Добавить сервер в список серверов LampaMC",
+    title: "Kratos AI | Подать заявку на вайтлист",
+    description:
+        "Подать заявку на вайтлист ванильного выживания на сервере Кратос. Играй с нами: play.kratosmc.ru",
 };
 
 export default function RootLayout({
